@@ -1,0 +1,20 @@
+Algoritmo Garrafas
+
+Algoritmo que consiste em calcular quantas garrafas de refrigerante foram
+consumidas em um dia.
+- José é um bebedor de refrigerante obsessivo que toma todo o refrigerante que
+lhe é fornecido.
+- Como não tem dinheiro, sua única forma de obter mais refrigerante é
+trocando garrafas vazias de refrigerante por garrafas cheias.
+- Além das garrafas vazias e das garrafas resultantes de seu próprio consumo,
+que ele troca imediatamente por garrafas cheias, ele às vezes encontra
+garrafas vazias na rua, que também são trocadas.
+
+--> Dado que o algoritmo receberá três números positivos:
+a) V - quantidade de garrafas vazias no início do dia;
+b) E - quantidade de garrafas vazias encontradas ao longo do dia;
+c) B - quantidade de garrafas vazias necessárias para a troca por uma cheia.
+
+Exemplos:
+- V=9, E=0, B=3 → resultado 4
+- V=5, E=5, B=2 → resultado 9
