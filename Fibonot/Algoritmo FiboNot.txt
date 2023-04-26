@@ -1,0 +1,9 @@
+Algoritmo FiboNot
+
+Consiste em um um algoritmo para calcular / encontrar o n-ésimo número da
+sequência de Fibonot.
+- A sequência de Fibonot é composta pelos números naturais não-nulos que
+não pertencem à sequência de Fibonacci.
+- Já a sequência de Fibonacci, uma das sequências mais famosas do mundo,
+tem seus termos definidos sempre como iguais à soma dos dois termos
+anteriores na sequência; ou seja: 1, 1, 2, 3, 5, 8, 13, 21, 34.
