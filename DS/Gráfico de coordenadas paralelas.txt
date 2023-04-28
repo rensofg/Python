@@ -1,0 +1,1 @@
+Dado o arquivo wine.csv, crie um código em Python para ler o arquivo CSV e gerar um gráfico de coordenadas paralelas. Apenas o atributo Color_intensity não deve estar relacionado no gráfico, porém ele deve ser usado para as cores do gráfico. Os atributos do gráficos devem ser apresentados em português.
